@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SampleHere</string>
+
+    <string name="license_key">LICENSE</string>
+    <string name="INTENT_NAME">in.zippr.samplehere.INTENT_NAME</string>
+    <string name="app_id">APP_ID</string>
+    <string name="apptoken">APP_TOKEN</string>
+</resources>
